@@ -1,2 +1,2 @@
-# portfolio
-simple Bootstrap site of my portfolio
+# Portfolio
+Simple Bootstrap site of my portfolio
